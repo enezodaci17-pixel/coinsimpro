@@ -1,0 +1,1 @@
+This app [CoinSim Pro] uses Google AdMob and Google Play Billing. We do not collect personal data. All trading activities are simulations for educational purposes.

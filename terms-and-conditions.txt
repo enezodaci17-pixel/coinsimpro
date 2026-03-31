@@ -1,1 +1,43 @@
-"This is a simulation and educational tool; it is not investment advice. There is no access to investment or bank accounts, or applications and accounts using real money."
+COINSIM-PRO TERMS AND CONDITIONS (TERMS OF SERVICE)
+Last Updated: March 31, 2026
+
+1. ACCEPTANCE OF TERMS
+By downloading, installing, or using the CoinSim-Pro mobile application (hereinafter referred to as "the App"), you agree to be bound by these Terms and Conditions. If you do not agree to these terms, you must immediately cease use of the App and uninstall it from your device.
+
+2. NATURE OF SERVICE (EDUCATIONAL SIMULATION ONLY)
+CoinSim-Pro is strictly a financial education and trading simulation tool.
+
+Virtual Currency: All digital assets, balances, profits, and losses displayed within the App are STRICTLY VIRTUAL. They have no real-world monetary value and cannot be withdrawn, transferred, or exchanged for real currency or any other assets.
+
+No Financial Access: The App does not link to, access, or manage any real-world bank accounts, cryptocurrency wallets, or investment platforms.
+
+3. NO INVESTMENT ADVICE (DISCLAIMER)
+The information provided within the App, including live price data and backtesting results, is for informational and educational purposes only.
+
+Nothing in this App constitutes professional financial, legal, or investment advice.
+
+The developer is not a licensed financial advisor or broker.
+
+Past performance in the simulation does not guarantee future results in real-world trading. You are solely responsible for any real-world financial decisions you make.
+
+4. ACCURACY OF DATA
+While the App strives to provide accurate and real-time market data, we do not guarantee the absolute accuracy, completeness, or timeliness of any data provided. Technical delays, server errors, or feed interruptions may occur. The developer is not liable for any discrepancies between simulation data and real-world market prices.
+
+5. ADVERTISEMENTS AND THIRD-PARTY SERVICES
+The App utilizes Google AdMob to display advertisements (including Rewarded Ads).
+
+By using the App, you consent to the display of these advertisements.
+
+Interactions with third-party advertisements are subject to the privacy policies and terms of those third-party providers.
+
+6. INTELLECTUAL PROPERTY
+All content, features, logos, algorithms, and source code within CoinSim-Pro are the exclusive intellectual property of the developer. Unauthorized reproduction, modification, or distribution of any part of the App is strictly prohibited.
+
+7. LIMITATION OF LIABILITY
+To the maximum extent permitted by applicable law, the developer shall not be liable for any direct, indirect, incidental, or consequential damages (including but not limited to financial loss in real-world markets) arising out of the use or inability to use the App.
+
+8. MODIFICATIONS TO TERMS
+We reserve the right to update these Terms and Conditions at any time. Your continued use of the App following any changes constitutes acceptance of the new terms.
+
+9. CONTACT
+If you have any questions regarding these terms, please contact the developer via the official support channels provided within the App store listing.
